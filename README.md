@@ -3,7 +3,7 @@
 
 ## introduction:
 
- This Repository contains Notebooks that implements some Classification Papers.                                                                 
+ This Repository contains Notebooks that implement some Classification Papers.                                                                 
  The Notebooks implemented using TensorFlow :)
    
    
