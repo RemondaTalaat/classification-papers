@@ -1,2 +1,16 @@
 # classification-papers
-This repository contains notebooks that implements  Some Classification Papers 
+
+## introduction:
+
+ This Repository contains Notebooks that implements some Classification Papers.
+ The Notebooks implemented using TensorFlow :)
+ 
+## implemented papers:
+
+ 1) ResNet_152
+ 2) InceptionV3
+ 3) DenseNet
+ 4) VGG_19
+ 
+ 
+
